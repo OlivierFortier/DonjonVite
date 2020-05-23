@@ -12,4 +12,14 @@ c'est très simple. c'est comme temple run et subway surfer.
 Il y à trois voies pour se déplacer : gauche, centre, et a droite.
 les obstacles se dirigent vers vous et vous devez les éviter, tout en ramassant les pièces d'or pour augmenter votre score.
 
-L'écran de pointage n'est pas implémenté encore.
+
+Le jeu est une application web progressive (PWA) fonctionnelle et installable.
+Les fichiers qui permettent cela sont les suivants :
+    manifest.json, pwabuilder-sw.js , les tag meta dans le head du index.html, et le script vers la fin du body dans index.html.
+    De plus, il faut que l'application soit servie sous HTTPS et soit sécurisée , ce que GitHub pages et Netlify permettent de faire sans problème.
+
+Le code source est en ligne sur github à cette adresse sous license du MIT : https://github.com/OlivierFortier/DonjonVite
+
+L'application elle-même est servie à l'aide de Netlify à l'adresse suivante : https://donjon-vite.netlify.app/
+
+Elle est complètement installable et fonctionne en mode hors-ligne (après l'avoir téléchargée au complet, bien sur)

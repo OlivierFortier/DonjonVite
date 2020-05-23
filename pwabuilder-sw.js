@@ -1,4 +1,4 @@
-// This is the "Offline copy of assets" service worker
+//service worker pour rendre le jeu disponible en hors-ligne une fois qu'il est téléchargé
 
 const CACHE = "pwabuilder-offline";
 
