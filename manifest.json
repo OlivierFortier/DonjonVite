@@ -4,7 +4,7 @@
 	"name" : "Donjon Vite",
 	"scope" : "/",
 	"display" : "standalone",
-	"start_url" : "donjon-vite.netlify.app/index.html",
+	"start_url" : "/index.html",
 	"short_name" : "Donjon Vite",
 	"theme_color" : "#000000",
 	"description" : "Un petit 'dungeon runner' où vous devez éviter les obstacles & ramasser des pièces d'or !",
@@ -61,7 +61,7 @@
 			"src": "/medias/favicons/apple-touch-icon-144x144.png",
 			"sizes": "144x144"
 		}],
-	"url" : "/",
+	"url" : "/index.html",
 	"screenshots" : [],
 	"generated" : "true"
 }
