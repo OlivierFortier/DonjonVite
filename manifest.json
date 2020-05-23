@@ -4,7 +4,7 @@
 	"name" : "Donjon Vite",
 	"scope" : "/",
 	"display" : "standalone",
-	"start_url" : "donjon-vite.netlify.app/",
+	"start_url" : "donjon-vite.netlify.app/index.html",
 	"short_name" : "Donjon Vite",
 	"theme_color" : "#000000",
 	"description" : "Un petit 'dungeon runner' où vous devez éviter les obstacles & ramasser des pièces d'or !",
@@ -14,51 +14,51 @@
 	"prefer_related_applications" : false,
 	"icons" : [
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon.ico",
+			"src": "/medias/favicons/favicon.ico",
 			"sizes": "16x16 24x24 32x32 48x48"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon.png",
+			"src": "/medias/favicons/favicon.png",
 			"sizes": "16x16"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon-32.png",
+			"src": "/medias/favicons/favicon-32.png",
 			"sizes": "32x32"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon-64.png",
+			"src": "/medias/favicons/favicon-64.png",
 			"sizes": "64x64"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon-96.png",
+			"src": "/medias/favicons/favicon-96.png",
 			"sizes": "96x96"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/favicon-196.png",
+			"src": "/medias/favicons/favicon-196.png",
 			"sizes": "196x196"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon.png",
+			"src": "/medias/favicons/apple-touch-icon.png",
 			"sizes": "152x152"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon-60x60.png",
+			"src": "/medias/favicons/apple-touch-icon-60x60.png",
 			"sizes": "60x60"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon-76x76.png",
+			"src": "/medias/favicons/apple-touch-icon-76x76.png",
 			"sizes": "76x76"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon-114x114.png",
+			"src": "/medias/favicons/apple-touch-icon-114x114.png",
 			"sizes": "114x114"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon-120x120.png",
+			"src": "/medias/favicons/apple-touch-icon-120x120.png",
 			"sizes": "120x120"
 		},
 		{
-			"src": "donjon-vite.netlify.app/medias/favicons/apple-touch-icon-144x144.png",
+			"src": "/medias/favicons/apple-touch-icon-144x144.png",
 			"sizes": "144x144"
 		}],
 	"url" : "donjon-vite.netlify.app/",
