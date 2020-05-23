@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "target":"ES6",
+        "moduleResolution": "node",
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "allowJs": false
+    },
+    "include": [
+        "./js/**/*"
+    ],
+    "files": [
+        "./defs/phaser.d.ts",
+        "./js/utils/GrilleMontage.js"
+        
+    ],
+    "exclude": [
+        "./js/lib/phaser.js",
+        "./js/utils/GrilleMontage.js",
+        "node_modules/**/*"
+    ],
+    "typeRoots": [
+        "./defs/"
+    ],
+    "types": [
+        "Phaser"
+    ]
+}

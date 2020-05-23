@@ -1,0 +1,15 @@
+Toutes les images utilisées proviennent de la section libre de droit et gratuites de itch.io , ou sont créées par moi avec aseprite.
+
+Tous les sons et musiques proviennent de freesound.org (site de sons libres de droit) & de la section gratuite et libre de droits de itch.io ou sont produits par moi.
+
+
+Le projet est fait avec typescript pour me permettre de bonifier mes connaissances en web et à des fins d'expérimentation.
+
+
+BUT DU JEU : 
+
+c'est très simple. c'est comme temple run et subway surfer.
+Il y à trois voies pour se déplacer : gauche, centre, et a droite.
+les obstacles se dirigent vers vous et vous devez les éviter, tout en ramassant les pièces d'or pour augmenter votre score.
+
+L'écran de pointage n'est pas implémenté encore.
