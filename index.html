@@ -9,7 +9,7 @@
 	<meta name="viewport"
 		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
 
-		<link rel='manifest' href='/manifest.json'>
+	<link rel='manifest' href='/manifest.json'>
 
 	<!-- les icones sont créées par moi avec aseprite -->
 	<link rel="shortcut icon" href="medias/favicons/favicon.ico" type="image/x-icon">
@@ -74,6 +74,15 @@
 		<img src="./medias/img/mettrePortrait.png" alt="image rotation" loading="lazy">
 	</div>
 
+	<script type="module">
+		// This is the "Offline copy of pages" service worker
+
+	import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+
+	const el = document.createElement('pwa-update');
+	document.body.appendChild(el);
+
+	</script>
 </body>
 
 </html>
